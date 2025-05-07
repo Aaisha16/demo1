@@ -1,3 +1,3 @@
 # demo1
 This my first Repo
-Author Aaisha
+Author Aaisha Palanpuri
